@@ -49,3 +49,10 @@ docker-compose down ; docker run --rm -v ${pwd}:/app composer install ; docker r
 -   Stops and Delete containers
 -   Install dependecies
 -   Start and run containers
+
+# Check Files
+
+-   docker-compose.yaml
+-   web.dockerfile
+-   app.dockerfile
+-   vhost.conf
